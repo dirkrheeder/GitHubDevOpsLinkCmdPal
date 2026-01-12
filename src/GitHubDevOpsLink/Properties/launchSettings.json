@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "GitHubDevOpsLink (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "GitHubDevOpsLink (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
